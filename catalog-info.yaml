@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: aerogear-android
+  annotations:
+    github.com/project-slug: lholmquist/aerogear-android
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/guest
